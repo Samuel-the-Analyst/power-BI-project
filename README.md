@@ -31,12 +31,22 @@ For 2022, available data covers only **Q1–Q2**, with recorded sales of about *
   <img src="s7.jpg" alt="Sales performance YoY" width="900">
 </p>
 
-# Product performance
-- Across the full period (Q1 2019–Q2 2022), all four coffee types, including Excelsa, Liberica, Arabica, and Robusta, contribute meaningfully to total revenue. Excelsa leads overall sales (~$12.3K), followed closely by Liberica (~$12.1K) and Arabica (~$11.8K), while Robusta (~$9.0K) trails but still represents a substantial revenue stream. This balanced distribution suggests a diversified product portfolio rather than reliance on a single best-seller.
+## Product performance
+- Across the full period (Q1 2019–Q2 2022), all four coffee types, including Excelsa, Liberica, Arabica, and Robusta, contribute meaningfully to total revenue. Excelsa leads overall sales with **$12.3K**, followed closely by Liberica **$12.1K** and Arabica **$11.8K**, while Robusta **$9.0K** trails but still represents a substantial revenue stream. This balanced distribution suggests a diversified product portfolio rather than reliance on a single best-seller.
 - Total revenue for Dark roasted coffee stands at approximately $13.2K from 333 orders, yielding an AOV of $40, the lowest among the roast types. Sales volume remains consistent across years, indicating stable demand, but the lower AOV suggests pricing sensitivity or smaller basket sizes. This means that Dark roast is a dependable volume driver rather than a premium revenue contributor.
 - The Light roast segment generated approximately $17.4K in revenue from 333 orders, resulting in the highest AOV at $53. Despite having the same order volume, Light roast consistently delivers higher revenue per transaction, indicating a more premium positioning or stronger upsell potential. This suggests Light roast is a key margin-driving segment. Medium roast recorded approximately $14.6K in revenue from 334 orders, with an AOV of $45. This positions it as a stable, core offering within the portfolio as well.
 - While all coffee types show recovery post-2020, Light and Medium roasts exhibit stronger upward momentum in later periods, particularly from 2021 onward, whereas Dark roast maintains flatter growth. This divergence suggests that consumer preferences may be gradually shifting toward higher-value or specialty offerings, while traditional products continue to provide baseline stability.
 - During periods of sales fluctuation (notably mid-2020), declines are not isolated to a single coffee type, indicating that external factors affected demand broadly. However, the presence of both premium (Light) and volume-driven (Dark) products helped smooth overall revenue volatility, reinforcing the value of a diversified product mix.
+
+<p align="center">
+  <img src="s8.jpg" alt="Product performance" width="900">
+</p>
+
+## Customer insights 
+- Customers with a loyalty card generated approximately **$24,240** in revenue from **521 orders**, with an **average order value (AOV) of $49**. In comparison, non-loyalty customers generated **$20,934** from **479** orders, with a lower **AOV of $45**.
+- Sales trends for loyalty card holders show more consistent monthly performance, with fewer extreme drops compared to non-loyalty customers. While both groups experience volatility during external disruptions (e.g., mid-2020), loyalty customers recover faster and maintain steadier sales levels afterward. This suggests that repeat customers act as a stabilizing force during periods of uncertainty.
+- Non-loyalty customers still account for a significant share of total sales (~46% of total revenue), highlighting the importance of acquisition. However, their purchasing behavior shows sharper peaks and troughs, alongside lower AOV, implying more transactional or occasional purchasing rather than sustained engagement. This reinforces the need to convert first-time buyers into repeat customers.
+- Despite relatively similar order volumes between loyalty (521 orders) and non-loyalty (479 orders) customers, loyalty card holders generate ~16% more revenue. This gap suggests that the loyalty program likely encourages higher basket sizes, repeat purchasing, or premium product selection—making it a high-impact lever for revenue growth without proportional increases in customer acquisition costs.
 
 
 
