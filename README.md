@@ -1,9 +1,7 @@
 ## 📁 Power BI Report File
 The complete Power BI report used for this analysis is included in this repository.
 
-**File:** ``
-
-> Open the file using **Power BI Desktop** to interact with the dashboard, view DAX measures, and explore the data model.
+**File** Coffee power BI.pbix
 
 # Data Structure
 The project uses a relational sales database consisting of three tables: **customers**, **products**, and **orders**.
