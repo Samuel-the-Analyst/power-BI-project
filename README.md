@@ -1,3 +1,10 @@
+## 📁 Power BI Report File
+The complete Power BI report used for this analysis is included in this repository.
+
+**File:** ``
+
+> Open the file using **Power BI Desktop** to interact with the dashboard, view DAX measures, and explore the data model.
+
 # Data Structure
 The project uses a relational sales database consisting of three tables: **customers**, **products**, and **orders**.
 These tables are connected using unique identifiers to support accurate sales and customer analysis.
@@ -5,8 +12,6 @@ These tables are connected using unique identifiers to support accurate sales an
 <p align="center">
   <img src="s1.jpg" alt="Table relationship diagram" width="900">
 </p>
-
-An interactive Power BI dashboard used to report and explore sales trends can be found here!
 
 ## Table Descriptions
 1. **Customers** - This table contains customer-level information and is used to analyze customer demographics and behavior.
