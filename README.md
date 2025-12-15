@@ -1,7 +1,7 @@
 ## 📁 Power BI Report File
 The complete Power BI report used for this analysis is included in this repository.
 
-**File** Coffee power BI.pbix
+**File** [Coffee_power_BI.pbix](Coffee_power_BI.pbix)
 
 # Data Structure
 The project uses a relational sales database consisting of three tables: **customers**, **products**, and **orders**.
