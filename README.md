@@ -6,6 +6,8 @@ These tables are connected using unique identifiers to support accurate sales an
   <img src="s1.jpg" alt="Table relationship diagram" width="900">
 </p>
 
+An interactive Power BI dashboard used to report and explore sales trends can be found here!
+
 ## Table Descriptions
 1. **Customers** - This table contains customer-level information and is used to analyze customer demographics and behavior.
 2. **Products** - This table stores product-level details and supports product performance and pricing analysis.
@@ -48,6 +50,12 @@ For 2022, available data covers only **Q1–Q2**, with recorded sales of about *
 - Non-loyalty customers still account for a significant share of total sales (~46% of total revenue), highlighting the importance of acquisition. However, their purchasing behavior shows sharper peaks and troughs, alongside lower AOV, implying more transactional or occasional purchasing rather than sustained engagement. This reinforces the need to convert first-time buyers into repeat customers.
 - Despite relatively similar order volumes between loyalty (521 orders) and non-loyalty (479 orders) customers, loyalty card holders generate ~16% more revenue. This gap suggests that the loyalty program likely encourages higher basket sizes, repeat purchasing, or premium product selection—making it a high-impact lever for revenue growth without proportional increases in customer acquisition costs.
 
+# Recommendations:
+- As already established, sales data shows recurring seasonality, with stronger performance in Q1 and Q4 and softer results in Q2 across multiple years. So, we recommend to increase inventory availability and marketing activity ahead of historically strong quarters. Then, for the slower quarters, we recommend targeted promotions or bundle offers to smooth revenue volatility. This approach helps maximize revenue during peak demand while reducing underperformance during slower periods.
+- Prioritize Light and Medium roasts in premium placements, upsell campaigns, and bundled offers. Consider modest price optimization or limited-edition variants within these categories to increase revenue per order without relying on volume growth. These products should be positioned as the primary levers for revenue expansion.
+- For the dark roast that demonstrated lower AOV of $40 and flatter growth, we do recommend using it to support consistent baseline sales rather than aggressive growth targets. You may also consider cross-sell strategies, such as add-ons or complementary products to lift basket size without risking customer churn. This way, you protect volume while improving overall transaction value.
+- Since Loyalty card holders tend to generate ~16% more revenue, higher AOV ($49 vs $45), and more stable sales patterns than non-loyalty customers, introduce clearer incentives for first-time buyers to join the loyalty program. You should also focus on early conversion within the first 1–2 purchases to accelerate customer lifetime value. The goal here is to improve loyalty conversion rates in attempt to standardize revenue growth and reduce volatility.
+- Continue acquisition efforts but evaluate success based on conversion to repeat purchase, not just first-sale volume. In addition, align marketing KPIs to reward retention outcomes (repeat rate, AOV growth) rather than acquisition alone. This way, you will ensure growth is sustainable and not overly sensitive to market disruptions.
 
 
 
